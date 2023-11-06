@@ -10,9 +10,9 @@ Offline Accessibility: The application is designed to work even when you're offl
 
 Cross-Platform: Access the text editor on various devices, including desktops, laptops, tablets, and smartphones, making it a versatile tool for your writing needs.
 
-Intuitive User Interface: The user-friendly interface makes it easy to create, edit, and format your documents efficiently.
+Intuitive User Interface: The user friendly interface makes it easy to create, edit, and format your documents efficiently.
 
-Cloud Synchronization: Store and access your documents from anywhere with cloud synchronization, ensuring that your work is always up-to-date.
+Cloud Synchronization: Store and access your documents from anywhere with cloud synchronization, ensuring that your work is always up to date.
 
 ## Questions
 
